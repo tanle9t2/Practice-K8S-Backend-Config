@@ -1,7 +1,7 @@
 appName: spring-boot-backend
 image:
   name: tanle92/backend
-  tag: v1.0.0
+  tag: main-78c4758
 
 nameSpace: dev
 
